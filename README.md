@@ -1,5 +1,5 @@
 # full-stack-web-dev-course
 
-This is the course from UDEMY.
+This is a course offered from UDEMY.
 
 https://www.udemy.com/the-full-stack-web-development/
